@@ -1,0 +1,265 @@
+.banner {
+    padding: 30px 30px 0px 150px;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+.banner-content {
+    max-width: 500px;
+    padding: 80px;
+}
+.banner-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-family: 'Lato', sans-serif;  
+}
+.btn-primary {
+    margin-top: 10px;
+    padding: 15px 40px;
+    background: #E55473;
+    color: white;
+    border-radius: 5px;
+    font-weight: normal;
+    font-size: 15px;
+    border: none;
+}
+
+.banner-flower {
+    width: 500px;
+    padding-right: 100px;
+}
+
+.banner-title {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    color: #272727;
+    font-family: 'Lato', sans-serif;
+
+}
+.head{
+    background: rgba(159, 113, 123, 0.27)
+}
+
+.good {
+    background-color: #FFF;
+    margin-top: auto;
+    margin-bottom: 0;
+    margin: auto;
+}
+.title {
+    color: #181818;
+    text-align: center;
+    font-weight: 70;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+}
+
+#description {
+    color: #757575;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+
+}
+#instagram {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 140px;
+}
+.shadow {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-bottom: 30px;
+
+}
+
+.shadow2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-bottom: 30px;
+}
+
+.shadow3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-bottom: 30px;
+}
+
+.section {
+    background: rgba(131, 113, 117, 0.05);
+    width: 1922px;
+    height: 620px;
+}
+.deal-banner {
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.deal-banner-content {
+    display: block;
+    text-align: center;
+    padding: 25px;
+    justify-content: space-around;
+}
+
+.banner-title-deal {
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color: #272727;
+    font-family: 'Lato', sans-serif;
+}
+.text-primary {
+    color: #E55473;
+    font-family: 'Lato', sans-serif;
+}
+.deal-banner-description {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: #757575;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.deal-btn-primary {
+    align-items: center;
+    margin-top: 10px;
+    padding: 15px 40px;
+    background: #E55473;
+    color: white;
+    border-radius: 5px;
+    font-weight: normal;
+    font-size: 15px;
+    border: none;
+
+}
+
+.deal-banner-flower {
+    width: 318px;
+    height: 420px;
+    padding: 150px;
+}
+
+.instagram {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.four {
+    width: 220px;
+    height: 350px;
+}
+
+.img {
+
+    width: 100%;
+
+}
+
+.background {
+    border-radius: 8px;
+    margin-left: 250px;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 1440px;
+    height: 449px;
+    text-align: center;
+    margin-bottom: 90px;
+}
+
+.hype {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: 'Lato', sans-serif;
+}
+
+.need h3 {
+    font-weight: 700px;
+    font-size: 30px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.need p {
+    font-weight: 500px;
+    font-size: 15px;
+    padding-bottom: 30px;
+
+}
+
+.need input {
+    width: 400px;
+    padding-left: 15px;
+    margin-right: 10px;
+    padding-top: 15px;
+    border: none;
+    border-radius: 8px;
+    background: #FFF;
+
+}
+
+.footer {
+    background-color: #111011;
+    display: block;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.footer h3 {
+    font-weight: 800px;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.footer p {
+    font-stretch: semi-expanded;
+    font-weight: 500px;
+    padding-top: 5px;
+    font-size: 17px;
+    padding-bottom: 5px;
+    color: rgba(255, 2555, 255, 0.9);  
+}
+
+.footer small {
+    font-stretch: semi-expanded;
+    text-align: center;
+    font-weight: 500px;
+    font-size: 10px;
+    color: rgba(255, 2555, 255, 0.4);
+    
+
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flowers {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
